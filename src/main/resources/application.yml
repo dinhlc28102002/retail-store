@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: itkuiapp
+      password: password123
